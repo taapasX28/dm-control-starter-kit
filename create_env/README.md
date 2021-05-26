@@ -1,4 +1,4 @@
-## Creating new envionments
+## Creating new environments
 
 #### Composer
 

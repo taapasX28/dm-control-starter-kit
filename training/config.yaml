@@ -1,0 +1,10 @@
+after_training: null
+agent: tonic.torch.agents.PPO()
+before_training: null
+environment: tonic.environments.ControlSuite("quadruped-walk")
+header: import tonic.torch
+name: null
+parallel: 1
+seed: 0
+sequential: 1
+trainer: tonic.Trainer()

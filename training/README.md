@@ -40,4 +40,4 @@
 
     ![](train_plot.png)
 
-    
+    11. NOTE: The algorithms only work with the tasks that are registered in the suite. For creating a new environment and task refer to the `composer` folder.

@@ -18,3 +18,6 @@ Most of the installation procedure for `dm_control` is listed in the official re
 
 For training tasks in dm_control I recommend the tonic RL library that can be found [here](https://github.com/fabiopardo/tonic). The installation is pretty straight forward. The library provides with 2 variants of RL algorithms in `Pytorch` as well as `tensorflow` so it can be modified easily for research. Regarding how to train go to training folder of the repository.
 
+
+
+* ###### For how to train a control suite environment go to `.\train\` and for making a custom environment refer to `.\create_env\`
